@@ -35,7 +35,7 @@ A list of codes of conduct inside the digital preservation (and related) communi
 ## Organisations with Unknown Status
 
 * [iPRES (N.B. Code of Conduct: No)](http://www.ipres2016.ch/frontend/organizers/media/iPRES2016/iPRES2016_.pdf)
-* [Australian Society of Archivists (drafted but not published?)](https://twitter.com/mikejonesmelb/status/892232454152400898)
+* [Australian Society of Archivists (displayed at conference venue, not available online)](https://twitter.com/mikejonesmelb/status/892232454152400898)
 * [Association of Canadian Archivists (blank page)](https://archivists.ca/content/code-conduct)
 * [National Digital Stewardship Alliance (drafted a preliminary document)](https://perma.cc/YTF2-ENL7)
 
